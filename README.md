@@ -1,4 +1,4 @@
-# ML_Hyperparameter
+# ML Hyperparameter tuning 
 Choosing different techniques, optimising hyperparameter of machine learning model
 
 ## install using pip
